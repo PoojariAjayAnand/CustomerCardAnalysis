@@ -5,3 +5,7 @@ To develop a comprehensive credit card weekly dashboard that provides realtime i
 
 Insights are given weekly. So, I will be giving insights for the last week of the year (31st December).
 
+
+ccust and cctrans are screenshots of the report.
+
+ccin1 & 2 are the project insights in powerpoint.
